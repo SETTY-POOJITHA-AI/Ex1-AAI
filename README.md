@@ -94,7 +94,8 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![op3](https://github.com/SETTY-POOJITHA-AI/Ex1-AAI/assets/93427581/f4033e29-ec99-4099-a16e-e664baf72152)
+<img width="760" alt="Output" src="https://github.com/SETTY-POOJITHA-AI/Ex1-AAI/assets/93427581/a55d3a5f-d419-465c-98c4-0967e10e599c">
+
 
 ## Result:
    Thus a Bayesian Network is generated using Python
